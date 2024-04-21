@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../example"
+		},
+		{
+			"path": "../mpointer"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
