@@ -49,7 +49,7 @@ int main(void)
 			enQueue(cQ, data);//enQueue 함수 호출
 			break;
 		case 'd': case 'D'://d 대소문자 입력받았을 때
-			deQueue(cQ,&data);//deQueue 함수 호출
+			deQueue(cQ,&data);//deQueue 함수 호출한다
 			break;
 		case 'p': case 'P'://p 대소문자 입력받았을 때
 			printQ(cQ);//printQ함수 호출
